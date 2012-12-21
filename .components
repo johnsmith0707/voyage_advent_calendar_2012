@@ -1,0 +1,7 @@
+--- 
+:test: none
+:mock: none
+:stylesheet: none
+:renderer: haml
+:script: none
+:orm: none
